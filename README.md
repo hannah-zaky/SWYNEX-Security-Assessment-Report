@@ -5,7 +5,7 @@ It combines the findings from my earlier defensive security tasks into one profe
 
 ## Contents
 
-- [`Security Assessment Report.pdf`](./security-assessement-report.pdf) - the full report
+- [`Security Assessment Report.pdf`](./security-assessment-report.pdf) - the full report
 
 ## Report Sections
 
